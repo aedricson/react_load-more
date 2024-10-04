@@ -1,0 +1,21 @@
+.products {
+  padding: 40px 60px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.products-load {
+  padding: 0 0 40px;
+  text-align: center;
+}
+
+.load-button {
+  padding: 10px 40px;
+  border: none;
+  border-radius: 5px;
+  background-color: #d3d3d3;
+  cursor: pointer;
+}

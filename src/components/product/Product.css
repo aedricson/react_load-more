@@ -1,0 +1,12 @@
+.product {
+  padding: 20px 30px;
+
+  display: flex;
+  flex-direction: column;
+  flex-basis: 350px;
+  align-items: center;
+  gap: 20px;
+
+  background-color: #d3d3d3;
+  border-radius: 5px;
+}
